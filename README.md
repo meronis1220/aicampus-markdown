@@ -127,7 +127,7 @@ markup과 markdown 모두 효과가 있습니다.
 <img width="320" height="310" alt="lion" src="https://github.com/user-attachments/assets/79075350-fecc-476f-9e12-9fd387b61792" />
 
 내가 가진 이미지도 표시할 수 있습니다.  
-같은 저장소에 있다면 상대 경
+같은 저장소에 있다면 상대 경로 지정할 수 있다
 
 ![카카오라이언](./dummy/lion.gif)
 
