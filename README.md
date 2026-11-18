@@ -126,7 +126,7 @@ markup과 markdown 모두 효과가 있습니다.
 
 <img width="320" height="310" alt="lion" src="https://github.com/user-attachments/assets/79075350-fecc-476f-9e12-9fd387b61792" />
 
-<img src="./dummy/image1.gif">
+<img src="./dummy/lion.gif">
 
 
 
