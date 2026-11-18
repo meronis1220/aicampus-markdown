@@ -124,6 +124,7 @@ markup과 markdown 모두 효과가 있습니다.
 
 ![카카오라이언](https://i.pinimg.com/originals/65/01/6b/65016b7fcf78444b8af4bef8fedc3e52.gif)
 
+<img width="320" height="310" alt="lion" src="https://github.com/user-attachments/assets/79075350-fecc-476f-9e12-9fd387b61792" />
 
 
 
